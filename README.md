@@ -74,7 +74,8 @@ Dashboard Integration
       ↓
 Testing & Validation
       ↓
-```Documentation & Delivery
+Documentation & Delivery
+```text
 
 ## Tableau Public Dashboard
 
