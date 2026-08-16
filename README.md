@@ -75,3 +75,7 @@ Dashboard Integration
 Testing & Validation
       ↓
 Documentation & Delivery
+
+## Tableau Public Dashboard
+
+[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/santhosh.prabhu5520/viz/GlobalUniversityPerformanceAnalyticsDashboard/Story1)
