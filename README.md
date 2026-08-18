@@ -233,9 +233,9 @@ The project includes a **Performance Index** as a comparative analytical measure
 
 The index combines:
 
-- Global Rank Score â€“ **40%**
-- Research Productivity Index â€“ **30%**
-- International Student Percentage â€“ **30%**
+- Global Rank Score - **40%**
+- Research Productivity Index - **30%**
+- International Student Percentage - **30%**
 
 The Performance Index is a **project-specific analytical indicator** created for benchmarking purposes. It should not be interpreted as an official QS or THE ranking score.
 
@@ -308,17 +308,17 @@ EduVision_DV enables users to explore:
 ```text
 EduVision_DV/
 
- data/
+data/
  qs-world-rankings-2025.csv
-THE World University Rankings 2016-2026.csv
+ THE World University Rankings 2016-2026.csv
  university_cleaned.csv
-university final dataset.csv
+ university final dataset.csv
 
- dashboard/
- EduVision_DV.twbx
+dashboard/
+  EduVision_DV.twbx
 
- docs/
- project_documentation
+docs/
+  project_documentation
 README.md
 ```
 
@@ -406,6 +406,6 @@ The project demonstrates an end-to-end higher-education analytics solution focus
 
 **J. Manibharathi**
 
-**Project:** EduVision_DV â€“ Higher Education Performance Dashboard
+**Project:** EduVision_DV - Higher Education Performance Dashboard
 
 **Focus Areas:** Higher Education Analytics, University Benchmarking, Research Analytics, Student Analytics, and Country Comparison
