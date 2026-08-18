@@ -1,4 +1,4 @@
-# EduVision_DV â€“ Higher Education Performance Dashboard
+# EduVision_DV “ Higher Education Performance Dashboard
 
 ## Project Overview
 
