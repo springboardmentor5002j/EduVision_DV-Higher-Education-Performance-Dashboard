@@ -401,6 +401,11 @@ The four-dashboard Tableau suite provides a unified environment for:
 The project demonstrates an end-to-end higher-education analytics solution focused on university benchmarking, research performance, student analysis, and country-level education comparison.
 
 ---
+## Tableau Dashboard 
+
+https://public.tableau.com/views/HigherEducationPerformanceDashboards/UniversityOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
 
 ## Author
 
