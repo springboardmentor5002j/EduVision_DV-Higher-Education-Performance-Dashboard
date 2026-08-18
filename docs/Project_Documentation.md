@@ -165,3 +165,44 @@ Dashboard Integration
 Testing & Validation
       ↓
 Documentation & Delivery
+```
+
+## 8. Technology Stack
+
+| Area | Tools |
+|---|---|
+| Data Collection | Python, QS Rankings, World University Rankings |
+| Data Processing | Pandas |
+| Data Cleaning | Python |
+| Visualization | Tableau Desktop / Tableau Public |
+| Dashboard Integration | Tableau Filters, Parameters, Actions |
+| Documentation | Markdown, GitHub |
+
+## 9. Testing and Validation
+
+The project includes validation of:
+
+- KPI calculations
+- Ranking calculations
+- Dashboard interactions
+- Educational metrics
+- Filters
+- Navigation controls
+- Dashboard actions
+
+The final Tableau workbook was tested to ensure that the four dashboards are integrated and interactive.
+
+## 10. Final Deliverables
+
+The project deliverables include:
+
+- Python preprocessing notebooks
+- Cleaned dataset
+- Tableau packaged workbook
+- Four integrated Tableau dashboards
+- Project documentation
+- GitHub repository
+
+## 11. Tableau Public Dashboard
+
+[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/santhosh.prabhu5520/viz/GlobalUniversityPerformanceAnalyticsDashboard/Story1)
