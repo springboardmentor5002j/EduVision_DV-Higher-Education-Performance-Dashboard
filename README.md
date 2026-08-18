@@ -1,5 +1,4 @@
-# EduVision_DV “ Higher Education Performance Dashboard
-
+# EduVision_DV “ Higher Education Performance Dashboard "
 ## Project Overview
 
 **EduVision_DV** is a Higher Education Performance Dashboard designed to analyze and visualize global university performance, research activity, student characteristics, and country-level education trends.
@@ -72,7 +71,7 @@ Dashboard calculations, rankings, filters, trends, comparisons, and navigation a
 
 ---
 
-# Dashboard 1 â€“ University Overview
+# Dashboard 1 - University Overview
 
 The **University Overview** dashboard provides a high-level view of global university performance.
 
@@ -107,7 +106,7 @@ This dashboard provides an overall understanding of university performance, acad
 
 ---
 
-# Dashboard 2 â€“ Research Analytics
+# Dashboard 2 - Research Analytics
 
 The **Research Analytics** dashboard focuses on research productivity, publications, citations, and research impact.
 
@@ -142,7 +141,7 @@ This dashboard helps identify research-performing institutions and understand re
 
 ---
 
-# Dashboard 3 â€“ Student Analytics
+# Dashboard 3 - Student Analytics
 
 The **Student Analytics** dashboard focuses on student population, internationalization, diversity, enrollment, and faculty relationships.
 
@@ -177,7 +176,7 @@ This dashboard provides insights into student scale, international student repre
 
 ---
 
-# Dashboard 4 â€“ Country Comparison
+# Dashboard 4 - Country Comparison
 
 The **Country Comparison** dashboard provides country-level and regional benchmarking.
 
@@ -308,20 +307,19 @@ EduVision_DV enables users to explore:
 
 ```text
 EduVision_DV/
-â”‚
-â”œâ”€â”€ data/
-â”‚   â”œâ”€â”€ qs-world-rankings-2025.csv
-â”‚   â”œâ”€â”€ THE World University Rankings 2016-2026.csv
-â”‚   â”œâ”€â”€ university_cleaned.csv
-â”‚   â””â”€â”€ university final dataset.csv
-â”‚
-â”œâ”€â”€ dashboard/
-â”‚   â””â”€â”€ EduVision_DV.twbx
-â”‚
-â”œâ”€â”€ docs/
-â”‚   â””â”€â”€ project_documentation
-â”‚
-â””â”€â”€ README.md
+
+ data/
+ qs-world-rankings-2025.csv
+THE World University Rankings 2016-2026.csv
+ university_cleaned.csv
+university final dataset.csv
+
+ dashboard/
+ EduVision_DV.twbx
+
+ docs/
+ project_documentation
+README.md
 ```
 
 ---
