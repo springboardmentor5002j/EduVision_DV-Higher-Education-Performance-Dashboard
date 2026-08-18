@@ -2,82 +2,32 @@
 
 ## Project Overview
 
-EduVision DV is a comprehensive higher education analytics dashboard project designed to analyze university rankings, research performance, student diversity, academic excellence, and global education trends.
+EduVision DV is a higher education analytics dashboard designed to analyze university rankings, research performance, student diversity, and country-level education performance.
 
-The project integrates publicly available QS World University Rankings and Times Higher Education World University Rankings data. Python is used for data preprocessing, cleaning, and feature engineering, while Tableau is used to develop interactive dashboards.
-
-## Objectives
-
-- Analyze global university rankings and performance.
-- Compare universities across different regions.
-- Analyze research publications and citation performance.
-- Study international student distribution and diversity.
-- Analyze faculty-to-student ratios.
-- Compare country-level higher education performance.
-- Identify trends and patterns in global higher education.
+The project uses QS World University Rankings and Times Higher Education data. Python is used for data preprocessing and feature engineering, while Tableau is used to create interactive dashboards.
 
 ## Dashboard Modules
 
-### 1. University Overview
+- **University Overview** – Global rankings, regions, and top universities.
+- **Research Analytics** – Publications, citations, research productivity, and faculty-to-student ratio.
+- **Student Analytics & Diversity** – International students, diversity trends, and regional analysis.
+- **Country Performance** – Country comparisons, regional trends, and global performance mapping.
 
-Provides an overview of global university performance, including:
+## Technology Stack
 
-- Total countries
-- Average global rank score
-- Total universities
-- Universities by region
-- Top 10 universities
+- Python
+- Pandas
+- Tableau
+- Tableau Public
+- GitHub
 
-### 2. Research Analytics
+## Repository Contents
 
-Focuses on university research performance:
+- `Data/` – Cleaned dataset
+- `dashboard/` – Tableau packaged workbook
+- `docs/` – Project documentation
+- `scripts/` – Python preprocessing notebooks
 
-- Publications
-- Citations
-- Research productivity
-- Research performance comparison
-- Faculty-to-student ratio
+## Tableau Public Dashboard
 
-### 3. Student Analytics & Diversity
-
-Analyzes:
-
-- International students by region
-- Student diversity trends
-- Year-wise student diversity
-- Regional and subject-level comparisons
-
-### 4. Country Performance
-
-Provides country-level analysis through:
-
-- Country ranking comparison
-- Education performance benchmarking
-- Regional trends
-- Global university performance map
-
-## Key Performance Indicators
-
-- Global Ranking Score
-- Research Productivity Index
-- Faculty-to-Student Ratio
-- International Student Percentage
-- Student Diversity
-- Performance Index
-
-## Project Workflow
-
-```text
-Data Collection
-      ↓
-Data Cleaning & Transformation
-      ↓
-KPI Engineering
-      ↓
-Dashboard Development
-      ↓
-Dashboard Integration
-      ↓
-Testing & Validation
-      ↓
-Documentation & Delivery
+[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/santhosh.prabhu5520/viz/GlobalUniversityPerformanceAnalyticsDashboard/Story1)
